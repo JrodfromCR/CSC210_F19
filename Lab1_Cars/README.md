@@ -33,10 +33,10 @@ For today's lab you will be building upon the provided `Car` class to build the 
 
 #### 2. Modify Method Accelerate
 
-- Rewrite the `accelerate()` method so that it takes in an integer and uses a class member variable to determine the new speed.
+- Rewrite the `accelerate()` method so that it has an integer parameter and uses a class member variable to determine the new speed.
 
   ```java
-  public void accelerate(float seconds) {
+  public void accelerate(int seconds) {
     currentSpeed += milesPerSecond*seconds;
   }
   ```
