@@ -1,6 +1,7 @@
 public class Inheritance {
 
   public static void main(String[] args) {
+
     ObjectClass base_object_default = new ObjectClass();
     System.out.println( "Base default: ");
     base_object_default.Print();
@@ -19,12 +20,5 @@ public class Inheritance {
     Derived isa_object_default = new Derived();
     System.out.println( "Derived default : ");
     isa_object_default.Print();
-
-    /*
-    System.out.println();
-    Derived isa_object_4_5(4,5);
-    System.out.println( "Derived 4,5 : ");
-    isa_object_4_5.Print();
-    */
   }
 }
