@@ -2,7 +2,9 @@
 
 This is an exercise to help solidify your understanding of class composition and inheritance. You will experiment with using class methods and class members with varying access (e.g. public, private, and protected).
 
-There are a total of 9 questions for you to consider, but you are not required to hand anything in. Throughout the exercise, you will be asked to comment and uncomment certain lines of code to see what happens.
+There are a total of 9 questions for you to try to answer. Throughout the exercise, you will be asked to comment and uncomment certain lines of code to see what happens, then report on the findings. You probably won't get through all 9 questions, but see how far you can get.
+
+> TO GET STARTED: WORK WITH 1 or 2 other people. Have one or two of you read the directions and type out your answers. Have the other person modify and attempt to compile the code. CREATE A TEXT FILE TO SUBMIT VIA MOODLE.
 
 ### _Composed_ Class
 
