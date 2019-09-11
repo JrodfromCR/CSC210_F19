@@ -6,6 +6,8 @@ There are a total of 9 questions for you to try to answer. Throughout the exerci
 
 > TO GET STARTED: WORK WITH 1 or 2 other people. Have one or two of you read the directions and type out your answers. Have the other person modify and attempt to compile the code. CREATE A TEXT FILE TO SUBMIT VIA MOODLE.
 
+> TO GET THE CODE AND TO COMPILE IT: go to the top level of the github repo, download the repo and unzip. (Or if you previously cloned it, you can do `git pull` to get the latest changes.) You might want to use the command line for compilation, then you don't have to try to make a project in your IDE and import all the files.
+
 ### _Composed_ Class
 
 The Composed has an ObjectClass object as a member variable (in other words, the Composed HAS-A ObjectClass object). To start with, the ObjectClass has member variables var_a_ and var_b_.
