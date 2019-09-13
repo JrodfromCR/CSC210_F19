@@ -7,6 +7,7 @@ public class Driver {
     // create fleet of new cars of different types
 		Car audi = new Car("Audi");
 		Car nissan = new Car("Nissan");
+    
     //EcoCar leaf = new EcoCar("Leaf");
     //SportsCar porsche = new SportsCar("Porsche");
 
